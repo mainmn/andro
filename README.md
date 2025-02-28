@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+مرحبا والسلام عليك صلي على النبي يا رفيقي 
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +6,8 @@
    
      
       
-https://www.facebook.com/profile.php?id=100081757543493          رابط حساب الكاتب 
-   
+
+
    
 
 <body>
@@ -18,6 +18,8 @@ https://www.facebook.com/profile.php?id=100081757543493          رابط حسا
          بل هان من زاد التكبر حلة فما زاده إلا مذلة على الدوام
         يظن نفسه شامخًا في رفعة وما كانت إلا أضغاث أحلام
     الكاتب محمد الامين بلعز
-    </div>
+       
+    </div>   https://www.facebook.com/profile.php?id=100081757543493          رابط حساب الكاتب 
+   
 </body>
-</html>
+
